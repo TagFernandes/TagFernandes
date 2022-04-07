@@ -9,7 +9,12 @@
 <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
 <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical) -->
 
 
 <h4>Redes Sociais📱</h4>
