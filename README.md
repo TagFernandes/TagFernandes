@@ -15,10 +15,13 @@
 <div>
   <a href="https://github.com/TagFernandes">
   <img src="https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical)
 </div>
+ 
+ 
+ <a href="https://github.com/TagFernandes"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical)
 
 
+ 
 <h4>Redes Sociais📱</h4>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tagfernandes)
