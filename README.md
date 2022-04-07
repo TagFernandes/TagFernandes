@@ -11,16 +11,8 @@
  <img align="center" alt="image" height="50" hspace="9" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
  <img align="center" alt="image" height="50" hspace="9" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 </div>
-
-<div>
-  <a href="https://github.com/TagFernandes">
-  <img src="https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
- 
- 
+  
  <a href="https://github.com/TagFernandes"> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical)
-
-
  
 <h4>Redes Sociais📱</h4>
 
