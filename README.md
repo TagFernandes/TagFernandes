@@ -1,15 +1,13 @@
 ### Thiago Fernandes 🤖
 <br>
 
- <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
- <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
-<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
-<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
-<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
-<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <img align="center" alt="image" height="10" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+ <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+ <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
+<img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> <img align="center" alt="image" height="5" src="https://pngimage.net/wp-content/uploads/2018/06/ponto-branco-png-4.png">
 <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=radical)
 
