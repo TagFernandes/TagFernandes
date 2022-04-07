@@ -10,7 +10,7 @@
 <img align="center" alt="image" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/TagFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TagFernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
